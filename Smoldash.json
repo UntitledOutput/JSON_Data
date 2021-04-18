@@ -1,0 +1,95 @@
+{
+   "TextureAtlas": {
+      "SubTexture": [
+         {
+            "_name": "smoldash 00000",
+            "_x": "12",
+            "_y": "58",
+            "_width": "175",
+            "_height": "116",
+            "_frameX": "-21",
+            "_frameY": "-68",
+            "_frameWidth": "799",
+            "_frameHeight": "513"
+         },
+         {
+            "_name": "smoldash 00001",
+            "_x": "238",
+            "_y": "30",
+            "_width": "171",
+            "_height": "147",
+            "_frameX": "-21",
+            "_frameY": "-68",
+            "_frameWidth": "799",
+            "_frameHeight": "513"
+         },
+         {
+            "_name": "smoldash 00002",
+            "_x": "471",
+            "_y": "6",
+            "_width": "158",
+            "_height": "180",
+            "_frameX": "-21",
+            "_frameY": "-68",
+            "_frameWidth": "799",
+            "_frameHeight": "513"
+         },
+         {
+            "_name": "smoldash 00003",
+            "_x": "705",
+            "_y": "0",
+            "_width": "145",
+            "_height": "191",
+            "_frameX": "-21",
+            "_frameY": "-68",
+            "_frameWidth": "799",
+            "_frameHeight": "513"
+         },
+         {
+            "_name": "smoldash 00004",
+            "_x": "905",
+            "_y": "26",
+            "_width": "166",
+            "_height": "158",
+            "_frameX": "-21",
+            "_frameY": "-68",
+            "_frameWidth": "799",
+            "_frameHeight": "513"
+         },
+         {
+            "_name": "smoldash 00005",
+            "_x": "-0.03",
+            "_y": "299",
+            "_width": "203.06",
+            "_height": "299",
+            "_frameX": "-21",
+            "_frameY": "-68",
+            "_frameWidth": "799",
+            "_frameHeight": "513"
+         },
+         {
+            "_name": "smoldash 00006",
+            "_x": "233",
+            "_y": "303",
+            "_width": "185",
+            "_height": "161",
+            "_frameX": "-21",
+            "_frameY": "-68",
+            "_frameWidth": "799",
+            "_frameHeight": "513"
+         },
+         {
+            "_name": "smoldash 00007",
+            "_x": "438",
+            "_y": "304",
+            "_width": "191",
+            "_height": "99",
+            "_frameX": "-21",
+            "_frameY": "-68",
+            "_frameWidth": "799",
+            "_frameHeight": "513"
+         }
+      ],
+      "_imagePath": "Smoldash.png"
+   }
+}
